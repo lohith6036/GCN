@@ -1,0 +1,8 @@
+
+Currently we can run the code in 2 different ways
+First 
+python train.py  --dataset cora  
+where cora is the name of the dataset
+second
+I have given the dataset name in the method. so we can call directly the py file
+python train.py     /*   only the python file is enough as i cannot give input as a file in debugging mode*/
